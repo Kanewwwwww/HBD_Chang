@@ -20,8 +20,8 @@ $(function () {
       { url:'images/S__119734295_0.jpg',name:''},
       { url:'images/S__119734295_0.jpg',name:''},
       { url:'images/S__119734295_0.jpg',name:''},
-      { url:'images/023_9月卡片_Danny.jpg',name:''},
-      { url:'images/861503_0.jpg',name:''}
+      { url:'images/2023_9月卡片_鑒章.jpg',name:''},
+      { url:'images/861502_0.jpg',name:''}
       ];
       var _oldPictureCount = 0;
       var _draw = [];
